@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# delivered frame sequence — 85 MB, not source
+/public/assets/frames*/
